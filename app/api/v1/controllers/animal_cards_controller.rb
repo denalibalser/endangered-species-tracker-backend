@@ -1,0 +1,2 @@
+class AnimalCardsController < ApplicationController
+end
